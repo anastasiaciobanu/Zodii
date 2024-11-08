@@ -11,13 +11,13 @@ body
 header
 {
     padding: 20px;
-    front: size 24px;
-    front-weight: bold;
+    font: size 24px;
+    font-weight: bold;
 }
 /* Titlu */
 h1 
 {
-    front: size 30px;
+    font: size 30px;
     margin: top 20px;
     margin-bottom: 15px;
     
